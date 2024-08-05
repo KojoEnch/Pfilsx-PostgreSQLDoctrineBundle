@@ -1,14 +1,8 @@
 {
-    "name": "pfilsx/postgresql-doctrine-bundle",
+    "name": "kojoench/postgresql-doctrine-bundle",
     "description": "This Symfony bundle provides extended Doctrine DBAL and Doctrine migrations classes for postgresql specific features support",
     "type": "symfony-bundle",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Pavel Filimonov",
-            "email": "pfilsx@gmail.com"
-        }
-    ],
     "minimum-stability": "stable",
     "require": {
         "php": "^8.1",
